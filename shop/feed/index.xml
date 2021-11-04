@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Products &#8211; Elisay</title>
+	<atom:link href="https://mysterious-lion.netlify.app/shop/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mysterious-lion.netlify.app/</link>
+	<description>Puzzle Shop</description>
+	<lastBuildDate>Mon, 01 Feb 2021 11:22:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://mysterious-lion.netlify.app/wp-content/uploads/2021/02/cropped-Elisay-Puzzle-Shop-32x32.png</url>
+	<title>Products &#8211; Elisay</title>
+	<link>https://mysterious-lion.netlify.app/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">188710035</site>	<item>
+		<title>Unique Wooden Jigsaw Puzzle Mysterious Lion</title>
+		<link>https://mysterious-lion.netlify.app/product/unique-wooden-jigsaw-puzzle-mysterious-lion/</link>
+		
+		<dc:creator><![CDATA[admin_elisay]]></dc:creator>
+		<pubDate>Mon, 01 Feb 2021 11:22:38 +0000</pubDate>
+				<guid isPermaLink="false">https://mysterious-lion.netlify.app/?post_type=product&#038;p=19</guid>
+
+					<description><![CDATA[An unique wooden puzzle, mysterious lion is the perfect choice as a gift.
+
+Suitable For Adults and Children aged 8+
+
+Arrives in  a premium wooden gift box.]]></description>
+										<content:encoded><![CDATA[<p>An unique wooden puzzle, mysterious lion is the perfect choice as a gift</p>
+<p>Each piece is animal shaped, making this a unique puzzle and a fabulous gift and is more challenging compared with other jigsaw puzzles.</p>
+<p>Jigsaw puzzles can promote eye-hand coordination, improve concentration, patience, logical thinking and problem-solving skills.<span class="Apple-converted-space"> </span></p>
+<p>Suitable For Adults and Children aged 8+</p>
+<h4>Product Features:</h4>
+<p>&#8211; wooden pieces made from formaldehyde-free sea birch</p>
+<p>&#8211;<span class="Apple-converted-space">  decorated with </span>high quality paint</p>
+<p>&#8211; arrives in  a premium wooden gift box</p>
+<h4>Product Specification:</h4>
+<p>Material: wood</p>
+<p>Finished product size: 28X20.4CM</p>
+<p>Carton size: 21X15X4CM (Due to manual measurement, there will be an error of 1-3mm.)</p>
+<p>Number of pieces: 186 pieces</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">19</post-id>	</item>
+	</channel>
+</rss>
